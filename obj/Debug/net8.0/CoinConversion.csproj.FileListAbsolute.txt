@@ -1,0 +1,14 @@
+C:\projects\CoinConversion\bin\Debug\net8.0\CoinConversion.exe
+C:\projects\CoinConversion\bin\Debug\net8.0\CoinConversion.deps.json
+C:\projects\CoinConversion\bin\Debug\net8.0\CoinConversion.runtimeconfig.json
+C:\projects\CoinConversion\bin\Debug\net8.0\CoinConversion.dll
+C:\projects\CoinConversion\bin\Debug\net8.0\CoinConversion.pdb
+C:\projects\CoinConversion\obj\Debug\net8.0\CoinConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CoinConversion\obj\Debug\net8.0\CoinConversion.AssemblyInfoInputs.cache
+C:\projects\CoinConversion\obj\Debug\net8.0\CoinConversion.AssemblyInfo.cs
+C:\projects\CoinConversion\obj\Debug\net8.0\CoinConversion.csproj.CoreCompileInputs.cache
+C:\projects\CoinConversion\obj\Debug\net8.0\CoinConversion.dll
+C:\projects\CoinConversion\obj\Debug\net8.0\refint\CoinConversion.dll
+C:\projects\CoinConversion\obj\Debug\net8.0\CoinConversion.pdb
+C:\projects\CoinConversion\obj\Debug\net8.0\CoinConversion.genruntimeconfig.cache
+C:\projects\CoinConversion\obj\Debug\net8.0\ref\CoinConversion.dll

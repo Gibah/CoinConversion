@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\CoinConversion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC1F25B-2DE5-4B80-9DE9-A7BBB76DBFEB}|CoinConversion.csproj|c:\\projects\\coinconversion\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC1F25B-2DE5-4B80-9DE9-A7BBB76DBFEB}|CoinConversion.csproj|solutionrelative:currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC1F25B-2DE5-4B80-9DE9-A7BBB76DBFEB}|CoinConversion.csproj|c:\\projects\\coinconversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC1F25B-2DE5-4B80-9DE9-A7BBB76DBFEB}|CoinConversion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC1F25B-2DE5-4B80-9DE9-A7BBB76DBFEB}|CoinConversion.csproj|c:\\projects\\coinconversion\\currencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC1F25B-2DE5-4B80-9DE9-A7BBB76DBFEB}|CoinConversion.csproj|solutionrelative:currencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC1F25B-2DE5-4B80-9DE9-A7BBB76DBFEB}|CoinConversion.csproj|c:\\projects\\coinconversion\\conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC1F25B-2DE5-4B80-9DE9-A7BBB76DBFEB}|CoinConversion.csproj|solutionrelative:conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC1F25B-2DE5-4B80-9DE9-A7BBB76DBFEB}|CoinConversion.csproj|c:\\projects\\coinconversion\\exchangerateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC1F25B-2DE5-4B80-9DE9-A7BBB76DBFEB}|CoinConversion.csproj|solutionrelative:exchangerateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExchangeRateResponse.cs",
+              "DocumentMoniker": "C:\\projects\\CoinConversion\\ExchangeRateResponse.cs",
+              "RelativeDocumentMoniker": "ExchangeRateResponse.cs",
+              "ToolTip": "C:\\projects\\CoinConversion\\ExchangeRateResponse.cs",
+              "RelativeToolTip": "ExchangeRateResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:53:20.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conversion.cs",
+              "DocumentMoniker": "C:\\projects\\CoinConversion\\Conversion.cs",
+              "RelativeDocumentMoniker": "Conversion.cs",
+              "ToolTip": "C:\\projects\\CoinConversion\\Conversion.cs",
+              "RelativeToolTip": "Conversion.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA5wB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:13:56.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrencyConverter.cs",
+              "DocumentMoniker": "C:\\projects\\CoinConversion\\CurrencyConverter.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.cs",
+              "ToolTip": "C:\\projects\\CoinConversion\\CurrencyConverter.cs",
+              "RelativeToolTip": "CurrencyConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:09:12.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrencyService.cs",
+              "DocumentMoniker": "C:\\projects\\CoinConversion\\CurrencyService.cs",
+              "RelativeDocumentMoniker": "CurrencyService.cs",
+              "ToolTip": "C:\\projects\\CoinConversion\\CurrencyService.cs",
+              "RelativeToolTip": "CurrencyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:59:37.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\CoinConversion\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\projects\\CoinConversion\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAArwBYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:57:50.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
